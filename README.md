@@ -1,4 +1,7 @@
 # 🐳 Enterprise Docker Library
+![Docker](https://img.shields.io/badge/Docker-Container-blue)
+![Security](https://img.shields.io/badge/Security-Hardened-red)
+![CI/CD](https://img.shields.io/badge/CI/CD-Ready-green)
 
 ## 📌 Overview
 
